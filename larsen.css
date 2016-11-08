@@ -1,0 +1,11 @@
+a  			{ color: #666666; font-weight : normal; font-family :  arial, sans-serif; text-decoration : none; }
+
+a:visited  	{ color: #666666; font-weight : normal; font-family :  arial, sans-serif; text-decoration : none; }
+
+a:hover  	{ color: #ffffff; font-weight : normal; font-family :  arial, sans-serif; text-decoration : underline; }
+
+td			{ font-size : 10pt; font-family :  arial, sans-serif; font-weight : normal; font-style : normal; color : #FFFFFF; text-decoration : none; }
+
+b			{ font-size : 10pt; font-family :  arial, sans-serif; font-weight : bold; font-style : normal; color : #FFFFFF; text-decoration : none; }
+
+i			{ font-size : 10pt; font-family :  arial, sans-serif; font-weight : bold; font-style : italic; color : #FFFFFF; text-decoration : none; }
